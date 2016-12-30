@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">demo</string>
+    <string name="bt_s1">逐帧动画</string>
+    <string name="bt_s2">补间动画</string>
+    <string name="bt_s3">属性动画</string>
+
+    <string name="tween_s1">正转</string>
+
+    <string name="tween_s2">反转</string>
+    <string name="tween_s3">代码</string>
+</resources>
